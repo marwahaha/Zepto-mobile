@@ -1,4 +1,4 @@
-# ABANDONNED A LONG TIME AGO
+# ABANDONED A LONG TIME AGO
 
 Don't use it, there's nothing interesting here.
 
